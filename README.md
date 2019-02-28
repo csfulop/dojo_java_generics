@@ -34,3 +34,5 @@ So describes the relationship between the type of Foods and type of Animals, not
 To solve this correctly you have to encounter the problem that Class\<Dog\> is not a sublass of Class\<Animal\> 
 (see:https://stackoverflow.com/questions/2745265/is-listdog-a-subclass-of-listanimal-why-are-java-generics-not-implicitly-po). 
 Use wildcards to solve the problem.  
+
+For the solutions see [ZooTest.java](src\test\java\hu\fcs\dojo\generics\ZooTest.java)
