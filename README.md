@@ -35,4 +35,4 @@ To solve this correctly you have to encounter the problem that Class\<Dog\> is n
 (see:https://stackoverflow.com/questions/2745265/is-listdog-a-subclass-of-listanimal-why-are-java-generics-not-implicitly-po). 
 Use wildcards to solve the problem.  
 
-For the solutions see [ZooTest.java](src\test\java\hu\fcs\dojo\generics\ZooTest.java)
+For the solutions see [ZooTest.java](src/test/java/hu/fcs/dojo/generics/ZooTest.java)
